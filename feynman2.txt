@@ -1,0 +1,16 @@
+Javascript Feynman Writing Prompts Homework 2
+
+For loop - is a piece of code that iterates over itself based on it's conditions. A for loop needs 3 conditions.
+	- A starting condition i.e. i = 0;
+	- A test condition i.e. i > 10;
+	- iteration statement (how to get from starting condition to the test/terminating condition) i.e i++
+
+&& - and
+|| - OR
+! - NOT
+
+Array - basically a storage for multiple variables have to put it in brackets [], first position of an array is 0.
+
+git - is versioning control
+
+github - cloud storage for code
